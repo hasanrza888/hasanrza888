@@ -8,10 +8,24 @@ I’m a **frontend developer** with 1.5+ years of experience specializing in **R
 
 ## 🔧 Tech Stack & Skills  
 
-📌 **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Redux Toolkit, Styled-components  
-📌 **Backend:** Node.js, REST APIs  
-📌 **Tools & Platforms:** Git, GitHub, Figma, Vercel  
-📌 **Others:** Website SEO, Responsive Design, Problem Solving  
+### 📌 **Frontend Development**  
+- HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- React.js, Next.js, Redux, Redux Toolkit, REST APIs  
+- Styled-components, SCSS/SASS, Bootstrap  
+- Responsive Design, Website SEO  
+ 
+### 📌 **Tools & Platforms**  
+- Git, GitHub, Vercel, Netlify, Figma
+
+### 📌 **Soft Skills**  
+- Problem-solving, Critical Thinking  
+- Teamwork & Collaboration  
+- Continuous Learning & Adaptability
+
+### 📌 **Artificial Intelligence & Data Science** *(Master’s Program)*  
+- Machine Learning, Deep Learning  
+- Python (NumPy, Pandas, Scikit-learn)  
+- Statistical Data Analysis   
 
 ---
 
