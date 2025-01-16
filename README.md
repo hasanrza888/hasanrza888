@@ -42,7 +42,7 @@ I’m a **frontend developer** with 1.5+ years of experience specializing in **R
 
 🔗 **LinkedIn:** [Hasanrza Hasanli](https://www.linkedin.com/in/hasanrzahasanli/)  
 📧 **Email:** hasanrza.888@gmail.com  
-🌐 **Portfolio (if available):** _Coming Soon_  
+🌐 **Portfolio:** _Coming Soon_  
 
 ---
 
