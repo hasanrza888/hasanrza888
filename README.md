@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer | AI Enthusiast**  
 
-I’m a **frontend developer** with 1.5+ years of experience specializing in **React.js, Next.js, TypeScript, and Redux Toolkit**. Passionate about building **scalable and user-friendly** web applications. Currently pursuing a **Master's in Artificial Intelligence** and exploring the intersection of **Machine Learning** and **Web Development**.  
+I’m a **frontend developer** with 2+ years of experience specializing in **React.js, Next.js, TypeScript, and Redux Toolkit**. Passionate about building **scalable and user-friendly** web applications. Currently pursuing a **Master's in Artificial Intelligence** and exploring the intersection of **Machine Learning** and **Web Development**.  
 
 ---
 
